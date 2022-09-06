@@ -1,0 +1,46 @@
+const data = {
+  products: [
+    {
+      name: "Night light",
+      category: "night lights",
+      image: "/images/p1.jpg",
+      price: 30,
+      countStock: 12,
+      rating: 4.5,
+      numReviews: 10,
+      description: "Salt lamps from himalayan salt",
+    },
+    {
+      name: "Night light",
+      category: "night lights",
+      image: "/images/p1.jpg",
+      price: 30,
+      countStock: 12,
+      rating: 4.5,
+      numReviews: 10,
+      description: "Salt lamps from himalayan salt",
+    },
+    {
+      name: "Night light",
+      category: "night lights",
+      image: "/images/p1.jpg",
+      price: 30,
+      countStock: 12,
+      rating: 4.5,
+      numReviews: 10,
+      description: "Salt lamps from himalayan salt",
+    },
+    {
+      name: "Night light",
+      slug: "lighting",
+      category: "night lights",
+      image: "/images/p1.jpg",
+      price: 30,
+      countStock: 12,
+      rating: 4.5,
+      numReviews: 10,
+      description: "Salt lamps from himalayan salt",
+    },
+  ],
+};
+export default data;
