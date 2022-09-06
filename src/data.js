@@ -2,6 +2,18 @@ const data = {
   products: [
     {
       name: "Night light",
+      id: 1,
+      category: "night lights",
+      image: ".../public/image/p1.jpg",
+      price: 30,
+      countStock: 12,
+      rating: 4.5,
+      numReviews: 10,
+      description: "Salt lamps from himalayan salt",
+    },
+    {
+      name: "Night light",
+      id: 2,
       category: "night lights",
       image: "/images/p1.jpg",
       price: 30,
@@ -12,6 +24,7 @@ const data = {
     },
     {
       name: "Night light",
+      id: 3,
       category: "night lights",
       image: "/images/p1.jpg",
       price: 30,
@@ -22,17 +35,7 @@ const data = {
     },
     {
       name: "Night light",
-      category: "night lights",
-      image: "/images/p1.jpg",
-      price: 30,
-      countStock: 12,
-      rating: 4.5,
-      numReviews: 10,
-      description: "Salt lamps from himalayan salt",
-    },
-    {
-      name: "Night light",
-      slug: "lighting",
+      id: 4,
       category: "night lights",
       image: "/images/p1.jpg",
       price: 30,
